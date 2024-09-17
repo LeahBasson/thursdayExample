@@ -24,6 +24,6 @@
       margin: 0 10px;
     }
     a {
-      color: #42B983;
+      color: #00a058;
     }
     </style>
